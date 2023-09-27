@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.c0965d39.js",
-    "index.html": "/index.html",
-    "main.c0965d39.js.map": "/static/js/main.c0965d39.js.map"
+    "main.js": "/celestialfactory/static/js/main.c0965d39.js",
+    "index.html": "/celestialfactory/index.html",
+    "main.c0965d39.js.map": "/celestialfactory/static/js/main.c0965d39.js.map"
   },
   "entrypoints": [
     "static/js/main.c0965d39.js"
