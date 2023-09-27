@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.d256d54e.js",
-    "index.html": "/index.html",
-    "main.d256d54e.js.map": "/static/js/main.d256d54e.js.map"
+    "main.js": "/celestialfactory/static/js/main.c7b75e07.js",
+    "index.html": "/celestialfactory/index.html",
+    "main.c7b75e07.js.map": "/celestialfactory/static/js/main.c7b75e07.js.map"
   },
   "entrypoints": [
-    "static/js/main.d256d54e.js"
+    "static/js/main.c7b75e07.js"
   ]
 }
